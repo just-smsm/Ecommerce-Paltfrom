@@ -1,0 +1,113 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\wwwroot\\images\\11.jpg",
+      "PackagePath": "staticwebassets\\images\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\wwwroot\\images\\12.jpg",
+      "PackagePath": "staticwebassets\\images\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\wwwroot\\images\\13.jpg",
+      "PackagePath": "staticwebassets\\images\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\wwwroot\\images\\13promax.jpg",
+      "PackagePath": "staticwebassets\\images\\13promax.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\wwwroot\\images\\14.jpg",
+      "PackagePath": "staticwebassets\\images\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\wwwroot\\images\\14plus.jpg",
+      "PackagePath": "staticwebassets\\images\\14plus.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\wwwroot\\images\\14promax.jpg",
+      "PackagePath": "staticwebassets\\images\\14promax.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\wwwroot\\images\\15.jpg",
+      "PackagePath": "staticwebassets\\images\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\wwwroot\\images\\15promax.jpg",
+      "PackagePath": "staticwebassets\\images\\15promax.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\wwwroot\\images\\Ipones.jpg",
+      "PackagePath": "staticwebassets\\images\\Ipones.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\wwwroot\\images\\a05s.jpg",
+      "PackagePath": "staticwebassets\\images\\a05s.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\wwwroot\\images\\a15.jpg",
+      "PackagePath": "staticwebassets\\images\\a15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\wwwroot\\images\\a55.jpg",
+      "PackagePath": "staticwebassets\\images\\a55.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\wwwroot\\images\\avatar5.png",
+      "PackagePath": "staticwebassets\\images\\avatar5.png"
+    },
+    {
+      "Id": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\wwwroot\\images\\oppo.jpg",
+      "PackagePath": "staticwebassets\\images\\oppo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\wwwroot\\images\\oppo13c.jpg",
+      "PackagePath": "staticwebassets\\images\\oppo13c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\wwwroot\\images\\oppoy03.jpg",
+      "PackagePath": "staticwebassets\\images\\oppoy03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\wwwroot\\images\\reno6.jpg",
+      "PackagePath": "staticwebassets\\images\\reno6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\wwwroot\\images\\reno7.jpg",
+      "PackagePath": "staticwebassets\\images\\reno7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\wwwroot\\images\\reno8t.jpg",
+      "PackagePath": "staticwebassets\\images\\reno8t.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\wwwroot\\images\\s23.jpg",
+      "PackagePath": "staticwebassets\\images\\s23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\wwwroot\\images\\sumsung.jpg",
+      "PackagePath": "staticwebassets\\images\\sumsung.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Ecommerce platforms.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Ecommerce platforms.API.props",
+      "PackagePath": "build\\Ecommerce platforms.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Ecommerce platforms.API.props",
+      "PackagePath": "buildMultiTargeting\\Ecommerce platforms.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Ecommerce platforms.API.props",
+      "PackagePath": "buildTransitive\\Ecommerce platforms.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
