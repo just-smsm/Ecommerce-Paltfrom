@@ -145,3 +145,4 @@ C:\Users\alQsa\source\repos\Ecommerce platforms\Ecommerce platforms.API\obj\Debu
 C:\Users\alQsa\source\repos\Ecommerce platforms\Ecommerce platforms.API\obj\Debug\net8.0\Ecommerce platforms.API.genruntimeconfig.cache
 C:\Users\alQsa\source\repos\Ecommerce platforms\Ecommerce platforms.API\obj\Debug\net8.0\ref\Ecommerce platforms.API.dll
 C:\Users\alQsa\source\repos\Ecommerce platforms\Ecommerce platforms.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\alQsa\source\repos\Ecommerce platforms\Ecommerce platforms.API\obj\Debug\net8.0\Ecommerce platforms.API.MvcApplicationPartsAssemblyInfo.cs

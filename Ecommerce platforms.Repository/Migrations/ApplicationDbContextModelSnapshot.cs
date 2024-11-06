@@ -41,7 +41,7 @@ namespace Ecommerce_platforms.Repository.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Brands");
+                    b.ToTable("Brands", (string)null);
                 });
 
             modelBuilder.Entity("Ecommerce_platforms.Core.Models.Cart", b =>
@@ -73,7 +73,7 @@ namespace Ecommerce_platforms.Repository.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Carts");
+                    b.ToTable("Carts", (string)null);
                 });
 
             modelBuilder.Entity("Ecommerce_platforms.Core.Models.CartItem", b =>
@@ -108,7 +108,7 @@ namespace Ecommerce_platforms.Repository.Migrations
 
                     b.HasIndex("CartId");
 
-                    b.ToTable("CartItems");
+                    b.ToTable("CartItems", (string)null);
                 });
 
             modelBuilder.Entity("Ecommerce_platforms.Core.Models.DeliveryMethod", b =>
@@ -136,7 +136,7 @@ namespace Ecommerce_platforms.Repository.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("DeliveryMethods");
+                    b.ToTable("DeliveryMethods", (string)null);
                 });
 
             modelBuilder.Entity("Ecommerce_platforms.Core.Models.Order", b =>
@@ -174,7 +174,7 @@ namespace Ecommerce_platforms.Repository.Migrations
 
                     b.HasIndex("DeliveryMethodId");
 
-                    b.ToTable("Orders");
+                    b.ToTable("Orders", (string)null);
                 });
 
             modelBuilder.Entity("Ecommerce_platforms.Core.Models.OrderItems", b =>
@@ -212,7 +212,7 @@ namespace Ecommerce_platforms.Repository.Migrations
 
                     b.HasIndex("OrderId");
 
-                    b.ToTable("OrderItems");
+                    b.ToTable("OrderItems", (string)null);
                 });
 
             modelBuilder.Entity("Ecommerce_platforms.Core.Models.Product", b =>
@@ -250,7 +250,7 @@ namespace Ecommerce_platforms.Repository.Migrations
 
                     b.HasIndex("BrandId");
 
-                    b.ToTable("Products");
+                    b.ToTable("Products", (string)null);
                 });
 
             modelBuilder.Entity("Ecommerce_platforms.Repository.Data.Identity.AppUser", b =>
@@ -476,7 +476,7 @@ namespace Ecommerce_platforms.Repository.Migrations
 
             modelBuilder.Entity("Ecommerce_platforms.Core.Models.Cart", b =>
                 {
-                    b.OwnsOne("Ecommerce_platforms.Core.Models.Address", "ShippingAddress", b1 =>
+                    b.OwnsOne("Ecommerce_platforms.Core.Models.Cart.ShippingAddress#Ecommerce_platforms.Core.Models.Address", "ShippingAddress", b1 =>
                         {
                             b1.Property<int>("CartId")
                                 .HasColumnType("int");
@@ -499,7 +499,7 @@ namespace Ecommerce_platforms.Repository.Migrations
 
                             b1.HasKey("CartId");
 
-                            b1.ToTable("Carts");
+                            b1.ToTable("Carts", (string)null);
 
                             b1.WithOwner()
                                 .HasForeignKey("CartId");

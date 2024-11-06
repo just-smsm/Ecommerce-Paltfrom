@@ -1651,12 +1651,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "Microsoft.AspNetCore.Http.Features": "5.0.17",
-          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.10",
-          "Microsoft.EntityFrameworkCore": "8.0.10",
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.10",
-          "Microsoft.Extensions.Configuration": "8.0.0",
-          "Stripe.net": "47.0.0"
+          "Microsoft.AspNetCore.Http.Features": "5.0.17"
         },
         "compile": {
           "bin/placeholder/Ecommerce platforms.Core.dll": {}
@@ -1670,12 +1665,8 @@
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "Ecommerce platforms.Core": "1.0.0",
-          "Microsoft.AspNetCore.Http.Features": "5.0.17",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.10",
-          "Microsoft.EntityFrameworkCore": "8.0.10",
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.10",
-          "Microsoft.Extensions.Configuration": "8.0.0",
-          "Stripe.net": "47.0.0"
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.10"
         },
         "compile": {
           "bin/placeholder/Ecommerce platforms.Repository.dll": {}

@@ -3,6 +3,50 @@
   "WorkspaceRootPath": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Migrations\\20241106232843_hfhf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ecommerce platforms.Repository\\Migrations\\20241106232843_hfhf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Migrations\\20241106232819_hfhf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ecommerce platforms.Repository\\Migrations\\20241106232819_hfhf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C5C6D1-C21F-42FD-AFE2-885BAF6EE14C}|Ecommerce platforms.Repository\\Ecommerce platforms.Repository.csproj|c:\\users\\alqsa\\source\\repos\\ecommerce platforms\\ecommerce platforms.repository\\ecommerce platforms.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D5C5C6D1-C21F-42FD-AFE2-885BAF6EE14C}|Ecommerce platforms.Repository\\Ecommerce platforms.Repository.csproj|solutionrelative:ecommerce platforms.repository\\ecommerce platforms.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83828D19-11B2-4BBA-AF91-E1856D9E075A}|Ecommerce platforms.Core\\Ecommerce platforms.Core.csproj|c:\\users\\alqsa\\source\\repos\\ecommerce platforms\\ecommerce platforms.core\\irepository\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83828D19-11B2-4BBA-AF91-E1856D9E075A}|Ecommerce platforms.Core\\Ecommerce platforms.Core.csproj|solutionrelative:ecommerce platforms.core\\irepository\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C5C6D1-C21F-42FD-AFE2-885BAF6EE14C}|Ecommerce platforms.Repository\\Ecommerce platforms.Repository.csproj|c:\\users\\alqsa\\source\\repos\\ecommerce platforms\\ecommerce platforms.repository\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C5C6D1-C21F-42FD-AFE2-885BAF6EE14C}|Ecommerce platforms.Repository\\Ecommerce platforms.Repository.csproj|solutionrelative:ecommerce platforms.repository\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83828D19-11B2-4BBA-AF91-E1856D9E075A}|Ecommerce platforms.Core\\Ecommerce platforms.Core.csproj|c:\\users\\alqsa\\source\\repos\\ecommerce platforms\\ecommerce platforms.core\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83828D19-11B2-4BBA-AF91-E1856D9E075A}|Ecommerce platforms.Core\\Ecommerce platforms.Core.csproj|solutionrelative:ecommerce platforms.core\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83828D19-11B2-4BBA-AF91-E1856D9E075A}|Ecommerce platforms.Core\\Ecommerce platforms.Core.csproj|c:\\users\\alqsa\\source\\repos\\ecommerce platforms\\ecommerce platforms.core\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83828D19-11B2-4BBA-AF91-E1856D9E075A}|Ecommerce platforms.Core\\Ecommerce platforms.Core.csproj|solutionrelative:ecommerce platforms.core\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83828D19-11B2-4BBA-AF91-E1856D9E075A}|Ecommerce platforms.Core\\Ecommerce platforms.Core.csproj|c:\\users\\alqsa\\source\\repos\\ecommerce platforms\\ecommerce platforms.core\\models\\cartitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83828D19-11B2-4BBA-AF91-E1856D9E075A}|Ecommerce platforms.Core\\Ecommerce platforms.Core.csproj|solutionrelative:ecommerce platforms.core\\models\\cartitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83828D19-11B2-4BBA-AF91-E1856D9E075A}|Ecommerce platforms.Core\\Ecommerce platforms.Core.csproj|c:\\users\\alqsa\\source\\repos\\ecommerce platforms\\ecommerce platforms.core\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83828D19-11B2-4BBA-AF91-E1856D9E075A}|Ecommerce platforms.Core\\Ecommerce platforms.Core.csproj|solutionrelative:ecommerce platforms.core\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83828D19-11B2-4BBA-AF91-E1856D9E075A}|Ecommerce platforms.Core\\Ecommerce platforms.Core.csproj|c:\\users\\alqsa\\source\\repos\\ecommerce platforms\\ecommerce platforms.core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83828D19-11B2-4BBA-AF91-E1856D9E075A}|Ecommerce platforms.Core\\Ecommerce platforms.Core.csproj|solutionrelative:ecommerce platforms.core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83828D19-11B2-4BBA-AF91-E1856D9E075A}|Ecommerce platforms.Core\\Ecommerce platforms.Core.csproj|c:\\users\\alqsa\\source\\repos\\ecommerce platforms\\ecommerce platforms.core\\models\\stripeoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83828D19-11B2-4BBA-AF91-E1856D9E075A}|Ecommerce platforms.Core\\Ecommerce platforms.Core.csproj|solutionrelative:ecommerce platforms.core\\models\\stripeoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{870B8E4F-BB82-4B99-B9C9-5ED17AAE9DE5}|Ecommerce platforms.API\\Ecommerce platforms.API.csproj|c:\\users\\alqsa\\source\\repos\\ecommerce platforms\\ecommerce platforms.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{870B8E4F-BB82-4B99-B9C9-5ED17AAE9DE5}|Ecommerce platforms.API\\Ecommerce platforms.API.csproj|solutionrelative:ecommerce platforms.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -91,10 +135,6 @@
       "RelativeMoniker": "D:0:0:{D5C5C6D1-C21F-42FD-AFE2-885BAF6EE14C}|Ecommerce platforms.Repository\\Ecommerce platforms.Repository.csproj|solutionrelative:ecommerce platforms.repository\\repository\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5C5C6D1-C21F-42FD-AFE2-885BAF6EE14C}|Ecommerce platforms.Repository\\Ecommerce platforms.Repository.csproj|c:\\users\\alqsa\\source\\repos\\ecommerce platforms\\ecommerce platforms.repository\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5C5C6D1-C21F-42FD-AFE2-885BAF6EE14C}|Ecommerce platforms.Repository\\Ecommerce platforms.Repository.csproj|solutionrelative:ecommerce platforms.repository\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D5C5C6D1-C21F-42FD-AFE2-885BAF6EE14C}|Ecommerce platforms.Repository\\Ecommerce platforms.Repository.csproj|c:\\users\\alqsa\\source\\repos\\ecommerce platforms\\ecommerce platforms.repository\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5C5C6D1-C21F-42FD-AFE2-885BAF6EE14C}|Ecommerce platforms.Repository\\Ecommerce platforms.Repository.csproj|solutionrelative:ecommerce platforms.repository\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -115,20 +155,12 @@
       "RelativeMoniker": "D:0:0:{83828D19-11B2-4BBA-AF91-E1856D9E075A}|Ecommerce platforms.Core\\Ecommerce platforms.Core.csproj|solutionrelative:ecommerce platforms.core\\models\\deliverymethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83828D19-11B2-4BBA-AF91-E1856D9E075A}|Ecommerce platforms.Core\\Ecommerce platforms.Core.csproj|c:\\users\\alqsa\\source\\repos\\ecommerce platforms\\ecommerce platforms.core\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83828D19-11B2-4BBA-AF91-E1856D9E075A}|Ecommerce platforms.Core\\Ecommerce platforms.Core.csproj|solutionrelative:ecommerce platforms.core\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{83828D19-11B2-4BBA-AF91-E1856D9E075A}|Ecommerce platforms.Core\\Ecommerce platforms.Core.csproj|c:\\users\\alqsa\\source\\repos\\ecommerce platforms\\ecommerce platforms.core\\irepository\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83828D19-11B2-4BBA-AF91-E1856D9E075A}|Ecommerce platforms.Core\\Ecommerce platforms.Core.csproj|solutionrelative:ecommerce platforms.core\\irepository\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{83828D19-11B2-4BBA-AF91-E1856D9E075A}|Ecommerce platforms.Core\\Ecommerce platforms.Core.csproj|c:\\users\\alqsa\\source\\repos\\ecommerce platforms\\ecommerce platforms.core\\irepository\\iorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83828D19-11B2-4BBA-AF91-E1856D9E075A}|Ecommerce platforms.Core\\Ecommerce platforms.Core.csproj|solutionrelative:ecommerce platforms.core\\irepository\\iorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83828D19-11B2-4BBA-AF91-E1856D9E075A}|Ecommerce platforms.Core\\Ecommerce platforms.Core.csproj|c:\\users\\alqsa\\source\\repos\\ecommerce platforms\\ecommerce platforms.core\\irepository\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83828D19-11B2-4BBA-AF91-E1856D9E075A}|Ecommerce platforms.Core\\Ecommerce platforms.Core.csproj|solutionrelative:ecommerce platforms.core\\irepository\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{83828D19-11B2-4BBA-AF91-E1856D9E075A}|Ecommerce platforms.Core\\Ecommerce platforms.Core.csproj|c:\\users\\alqsa\\source\\repos\\ecommerce platforms\\ecommerce platforms.core\\irepository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -163,36 +195,16 @@
       "RelativeMoniker": "D:0:0:{D5C5C6D1-C21F-42FD-AFE2-885BAF6EE14C}|Ecommerce platforms.Repository\\Ecommerce platforms.Repository.csproj|solutionrelative:ecommerce platforms.repository\\data\\config\\cartconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83828D19-11B2-4BBA-AF91-E1856D9E075A}|Ecommerce platforms.Core\\Ecommerce platforms.Core.csproj|c:\\users\\alqsa\\source\\repos\\ecommerce platforms\\ecommerce platforms.core\\models\\stripeoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83828D19-11B2-4BBA-AF91-E1856D9E075A}|Ecommerce platforms.Core\\Ecommerce platforms.Core.csproj|solutionrelative:ecommerce platforms.core\\models\\stripeoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{83828D19-11B2-4BBA-AF91-E1856D9E075A}|Ecommerce platforms.Core\\Ecommerce platforms.Core.csproj|c:\\users\\alqsa\\source\\repos\\ecommerce platforms\\ecommerce platforms.core\\models\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83828D19-11B2-4BBA-AF91-E1856D9E075A}|Ecommerce platforms.Core\\Ecommerce platforms.Core.csproj|solutionrelative:ecommerce platforms.core\\models\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83828D19-11B2-4BBA-AF91-E1856D9E075A}|Ecommerce platforms.Core\\Ecommerce platforms.Core.csproj|c:\\users\\alqsa\\source\\repos\\ecommerce platforms\\ecommerce platforms.core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83828D19-11B2-4BBA-AF91-E1856D9E075A}|Ecommerce platforms.Core\\Ecommerce platforms.Core.csproj|solutionrelative:ecommerce platforms.core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{83828D19-11B2-4BBA-AF91-E1856D9E075A}|Ecommerce platforms.Core\\Ecommerce platforms.Core.csproj|c:\\users\\alqsa\\source\\repos\\ecommerce platforms\\ecommerce platforms.core\\models\\orderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83828D19-11B2-4BBA-AF91-E1856D9E075A}|Ecommerce platforms.Core\\Ecommerce platforms.Core.csproj|solutionrelative:ecommerce platforms.core\\models\\orderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83828D19-11B2-4BBA-AF91-E1856D9E075A}|Ecommerce platforms.Core\\Ecommerce platforms.Core.csproj|c:\\users\\alqsa\\source\\repos\\ecommerce platforms\\ecommerce platforms.core\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83828D19-11B2-4BBA-AF91-E1856D9E075A}|Ecommerce platforms.Core\\Ecommerce platforms.Core.csproj|solutionrelative:ecommerce platforms.core\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{83828D19-11B2-4BBA-AF91-E1856D9E075A}|Ecommerce platforms.Core\\Ecommerce platforms.Core.csproj|c:\\users\\alqsa\\source\\repos\\ecommerce platforms\\ecommerce platforms.core\\models\\modelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83828D19-11B2-4BBA-AF91-E1856D9E075A}|Ecommerce platforms.Core\\Ecommerce platforms.Core.csproj|solutionrelative:ecommerce platforms.core\\models\\modelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83828D19-11B2-4BBA-AF91-E1856D9E075A}|Ecommerce platforms.Core\\Ecommerce platforms.Core.csproj|c:\\users\\alqsa\\source\\repos\\ecommerce platforms\\ecommerce platforms.core\\models\\cartitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83828D19-11B2-4BBA-AF91-E1856D9E075A}|Ecommerce platforms.Core\\Ecommerce platforms.Core.csproj|solutionrelative:ecommerce platforms.core\\models\\cartitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83828D19-11B2-4BBA-AF91-E1856D9E075A}|Ecommerce platforms.Core\\Ecommerce platforms.Core.csproj|c:\\users\\alqsa\\source\\repos\\ecommerce platforms\\ecommerce platforms.core\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83828D19-11B2-4BBA-AF91-E1856D9E075A}|Ecommerce platforms.Core\\Ecommerce platforms.Core.csproj|solutionrelative:ecommerce platforms.core\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{870B8E4F-BB82-4B99-B9C9-5ED17AAE9DE5}|Ecommerce platforms.API\\Ecommerce platforms.API.csproj|c:\\users\\alqsa\\source\\repos\\ecommerce platforms\\ecommerce platforms.api\\modelsdto\\updatequantitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -286,89 +298,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20241105025026_addModels.cs",
-              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Migrations\\20241105025026_addModels.cs",
-              "RelativeDocumentMoniker": "Ecommerce platforms.Repository\\Migrations\\20241105025026_addModels.cs",
-              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Migrations\\20241105025026_addModels.cs",
-              "RelativeToolTip": "Ecommerce platforms.Repository\\Migrations\\20241105025026_addModels.cs",
+              "DocumentIndex": 0,
+              "Title": "20241106232843_hfhf.cs",
+              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Migrations\\20241106232843_hfhf.cs",
+              "RelativeDocumentMoniker": "Ecommerce platforms.Repository\\Migrations\\20241106232843_hfhf.cs",
+              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Migrations\\20241106232843_hfhf.cs",
+              "RelativeToolTip": "Ecommerce platforms.Repository\\Migrations\\20241106232843_hfhf.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T02:50:27.24Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\Program.cs",
-              "RelativeDocumentMoniker": "Ecommerce platforms.API\\Program.cs",
-              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\Program.cs",
-              "RelativeToolTip": "Ecommerce platforms.API\\Program.cs",
-              "ViewState": "AQIAAIQAAAAAAAAAAAAiwIsAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:41:53.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Ecommerce platforms.Repository\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Ecommerce platforms.Repository\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAYwBwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:19:27.99Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "Ecommerce platforms.API\\Controllers\\OrderController.cs",
-              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "Ecommerce platforms.API\\Controllers\\OrderController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAIwAwAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T00:57:08.757Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Ecommerce platforms.API\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Ecommerce platforms.API\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T00:57:43.639Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CartController.cs",
-              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\Controllers\\CartController.cs",
-              "RelativeDocumentMoniker": "Ecommerce platforms.API\\Controllers\\CartController.cs",
-              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\Controllers\\CartController.cs",
-              "RelativeToolTip": "Ecommerce platforms.API\\Controllers\\CartController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T00:56:37.504Z",
+              "WhenOpened": "2024-11-06T23:28:43.723Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "20241106232819_hfhf.cs",
+              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Migrations\\20241106232819_hfhf.cs",
+              "RelativeDocumentMoniker": "Ecommerce platforms.Repository\\Migrations\\20241106232819_hfhf.cs",
+              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Migrations\\20241106232819_hfhf.cs",
+              "RelativeToolTip": "Ecommerce platforms.Repository\\Migrations\\20241106232819_hfhf.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T23:28:19.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ecommerce platforms.Repository",
+              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Ecommerce platforms.Repository.csproj",
+              "RelativeDocumentMoniker": "Ecommerce platforms.Repository\\Ecommerce platforms.Repository.csproj",
+              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Ecommerce platforms.Repository.csproj",
+              "RelativeToolTip": "Ecommerce platforms.Repository\\Ecommerce platforms.Repository.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-06T23:27:38.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "IdentityUserDataSeeding.cs",
               "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Data\\IdentityUserDataSeeding.cs",
               "RelativeDocumentMoniker": "Ecommerce platforms.Repository\\Data\\IdentityUserDataSeeding.cs",
@@ -376,207 +349,84 @@
               "RelativeToolTip": "Ecommerce platforms.Repository\\Data\\IdentityUserDataSeeding.cs",
               "ViewState": "AQIAACYAAAAAAAAAAAAYwCoAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:22:52.77Z",
+              "WhenOpened": "2024-11-05T01:22:52.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StripeOptions.cs",
+              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\Models\\StripeOptions.cs",
+              "RelativeDocumentMoniker": "Ecommerce platforms.Core\\Models\\StripeOptions.cs",
+              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\Models\\StripeOptions.cs",
+              "RelativeToolTip": "Ecommerce platforms.Core\\Models\\StripeOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:08:35.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Ecommerce platforms.Core\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\Models\\Product.cs",
+              "RelativeToolTip": "Ecommerce platforms.Core\\Models\\Product.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:08:25.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "Ecommerce platforms.Core\\Models\\Brand.cs",
+              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\Models\\Brand.cs",
+              "RelativeToolTip": "Ecommerce platforms.Core\\Models\\Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:07:43.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "Ecommerce platforms.Core\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\Models\\Cart.cs",
+              "RelativeToolTip": "Ecommerce platforms.Core\\Models\\Cart.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:07:48.639Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\IRepository\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "Ecommerce platforms.Core\\IRepository\\IUnitOfWork.cs",
-              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\IRepository\\IUnitOfWork.cs",
-              "RelativeToolTip": "Ecommerce platforms.Core\\IRepository\\IUnitOfWork.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Title": "CartItems.cs",
+              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\Models\\CartItems.cs",
+              "RelativeDocumentMoniker": "Ecommerce platforms.Core\\Models\\CartItems.cs",
+              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\Models\\CartItems.cs",
+              "RelativeToolTip": "Ecommerce platforms.Core\\Models\\CartItems.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAAcAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T02:28:53.189Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T01:07:57.808Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Repository\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "Ecommerce platforms.Repository\\Repository\\UnitOfWork.cs",
-              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Repository\\UnitOfWork.cs",
-              "RelativeToolTip": "Ecommerce platforms.Repository\\Repository\\UnitOfWork.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Ecommerce platforms.Core\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\Models\\Order.cs",
+              "RelativeToolTip": "Ecommerce platforms.Core\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T02:29:26.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T01:08:14.613Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ApplicationDbContextFactory.cs",
-              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Data\\ApplicationDbContextFactory.cs",
-              "RelativeDocumentMoniker": "Ecommerce platforms.Repository\\Data\\ApplicationDbContextFactory.cs",
-              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Data\\ApplicationDbContextFactory.cs",
-              "RelativeToolTip": "Ecommerce platforms.Repository\\Data\\ApplicationDbContextFactory.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAmwBYAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T02:43:18.637Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\appsettings.json",
-              "RelativeDocumentMoniker": "Ecommerce platforms.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\appsettings.json",
-              "RelativeToolTip": "Ecommerce platforms.API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-05T01:40:03.762Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BrandController.cs",
-              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\Controllers\\BrandController.cs",
-              "RelativeDocumentMoniker": "Ecommerce platforms.API\\Controllers\\BrandController.cs",
-              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\Controllers\\BrandController.cs",
-              "RelativeToolTip": "Ecommerce platforms.API\\Controllers\\BrandController.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAIwA4AAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T02:29:54.115Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Auth.cs",
-              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Auth\\Auth.cs",
-              "RelativeDocumentMoniker": "Ecommerce platforms.Repository\\Auth\\Auth.cs",
-              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Auth\\Auth.cs",
-              "RelativeToolTip": "Ecommerce platforms.Repository\\Auth\\Auth.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAYwD4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:11:50.92Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Ecommerce platforms.API\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Ecommerce platforms.API\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAwwBMAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T00:54:42.347Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IAuth.cs",
-              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Auth\\IAuth.cs",
-              "RelativeDocumentMoniker": "Ecommerce platforms.Repository\\Auth\\IAuth.cs",
-              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Auth\\IAuth.cs",
-              "RelativeToolTip": "Ecommerce platforms.Repository\\Auth\\IAuth.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:12:02.238Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "DeliveryMethodRepository.cs",
-              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Repository\\DeliveryMethodRepository.cs",
-              "RelativeDocumentMoniker": "Ecommerce platforms.Repository\\Repository\\DeliveryMethodRepository.cs",
-              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Repository\\DeliveryMethodRepository.cs",
-              "RelativeToolTip": "Ecommerce platforms.Repository\\Repository\\DeliveryMethodRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:16:26.519Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "BrandConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Data\\Config\\BrandConfiguration.cs",
-              "RelativeDocumentMoniker": "Ecommerce platforms.Repository\\Data\\Config\\BrandConfiguration.cs",
-              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Data\\Config\\BrandConfiguration.cs",
-              "RelativeToolTip": "Ecommerce platforms.Repository\\Data\\Config\\BrandConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:13:26.707Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Repository\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "Ecommerce platforms.Repository\\Repository\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Repository\\ProductRepository.cs",
-              "RelativeToolTip": "Ecommerce platforms.Repository\\Repository\\ProductRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:16:43.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\Helper\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "Ecommerce platforms.API\\Helper\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\Helper\\MappingProfile.cs",
-              "RelativeToolTip": "Ecommerce platforms.API\\Helper\\MappingProfile.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAIBJwCoAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T00:59:19.426Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ProfileController.cs",
-              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\Controllers\\ProfileController.cs",
-              "RelativeDocumentMoniker": "Ecommerce platforms.API\\Controllers\\ProfileController.cs",
-              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\Controllers\\ProfileController.cs",
-              "RelativeToolTip": "Ecommerce platforms.API\\Controllers\\ProfileController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T00:58:20.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "OrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Repository\\OrderRepository.cs",
-              "RelativeDocumentMoniker": "Ecommerce platforms.Repository\\Repository\\OrderRepository.cs",
-              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Repository\\OrderRepository.cs",
-              "RelativeToolTip": "Ecommerce platforms.Repository\\Repository\\OrderRepository.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAIBJwA0AAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:16:39.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "IImageService.cs",
-              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Repository\\IImageService.cs",
-              "RelativeDocumentMoniker": "Ecommerce platforms.Repository\\Repository\\IImageService.cs",
-              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Repository\\IImageService.cs",
-              "RelativeToolTip": "Ecommerce platforms.Repository\\Repository\\IImageService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAIBQwAAAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:16:34.738Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 4,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Repository\\GenericRepository.cs",
               "RelativeDocumentMoniker": "Ecommerce platforms.Repository\\Repository\\GenericRepository.cs",
@@ -589,111 +439,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "CartRepository.cs",
-              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Repository\\CartRepository.cs",
-              "RelativeDocumentMoniker": "Ecommerce platforms.Repository\\Repository\\CartRepository.cs",
-              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Repository\\CartRepository.cs",
-              "RelativeToolTip": "Ecommerce platforms.Repository\\Repository\\CartRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:16:21.383Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "BrandRepository.cs",
-              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Repository\\BrandRepository.cs",
-              "RelativeDocumentMoniker": "Ecommerce platforms.Repository\\Repository\\BrandRepository.cs",
-              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Repository\\BrandRepository.cs",
-              "RelativeToolTip": "Ecommerce platforms.Repository\\Repository\\BrandRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAsAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:16:04.685Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Address.cs",
-              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\Models\\Address.cs",
-              "RelativeDocumentMoniker": "Ecommerce platforms.Core\\Models\\Address.cs",
-              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\Models\\Address.cs",
-              "RelativeToolTip": "Ecommerce platforms.Core\\Models\\Address.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:07:36.091Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "StoreDataSeeding.cs",
-              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Data\\StoreDataSeeding.cs",
-              "RelativeDocumentMoniker": "Ecommerce platforms.Repository\\Data\\StoreDataSeeding.cs",
-              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Data\\StoreDataSeeding.cs",
-              "RelativeToolTip": "Ecommerce platforms.Repository\\Data\\StoreDataSeeding.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:23:39.016Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "DeliveryMethod.cs",
-              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\Models\\DeliveryMethod.cs",
-              "RelativeDocumentMoniker": "Ecommerce platforms.Core\\Models\\DeliveryMethod.cs",
-              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\Models\\DeliveryMethod.cs",
-              "RelativeToolTip": "Ecommerce platforms.Core\\Models\\DeliveryMethod.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:08:02.665Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Cart.cs",
-              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\Models\\Cart.cs",
-              "RelativeDocumentMoniker": "Ecommerce platforms.Core\\Models\\Cart.cs",
-              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\Models\\Cart.cs",
-              "RelativeToolTip": "Ecommerce platforms.Core\\Models\\Cart.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:07:48.639Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "IProduct.cs",
-              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\IRepository\\IProduct.cs",
-              "RelativeDocumentMoniker": "Ecommerce platforms.Core\\IRepository\\IProduct.cs",
-              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\IRepository\\IProduct.cs",
-              "RelativeToolTip": "Ecommerce platforms.Core\\IRepository\\IProduct.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:06:51.673Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "IOrder.cs",
-              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\IRepository\\IOrder.cs",
-              "RelativeDocumentMoniker": "Ecommerce platforms.Core\\IRepository\\IOrder.cs",
-              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\IRepository\\IOrder.cs",
-              "RelativeToolTip": "Ecommerce platforms.Core\\IRepository\\IOrder.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:06:46.657Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 3,
               "Title": "IImageService.cs",
               "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\IRepository\\IImageService.cs",
               "RelativeDocumentMoniker": "Ecommerce platforms.Core\\IRepository\\IImageService.cs",
@@ -706,7 +452,343 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Ecommerce platforms.API\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Ecommerce platforms.API\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T00:56:37.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Ecommerce platforms.API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Ecommerce platforms.API\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T00:57:43.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\Program.cs",
+              "RelativeDocumentMoniker": "Ecommerce platforms.API\\Program.cs",
+              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\Program.cs",
+              "RelativeToolTip": "Ecommerce platforms.API\\Program.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAiwJAAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:41:53.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Ecommerce platforms.API\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Ecommerce platforms.API\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T00:57:08.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Ecommerce platforms.Repository\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Ecommerce platforms.Repository\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:19:27.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241105025026_addModels.cs",
+              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Migrations\\20241105025026_addModels.cs",
+              "RelativeDocumentMoniker": "Ecommerce platforms.Repository\\Migrations\\20241105025026_addModels.cs",
+              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Migrations\\20241105025026_addModels.cs",
+              "RelativeToolTip": "Ecommerce platforms.Repository\\Migrations\\20241105025026_addModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T02:50:27.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\IRepository\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Ecommerce platforms.Core\\IRepository\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\IRepository\\IUnitOfWork.cs",
+              "RelativeToolTip": "Ecommerce platforms.Core\\IRepository\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T02:28:53.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Ecommerce platforms.Repository\\Repository\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "Ecommerce platforms.Repository\\Repository\\UnitOfWork.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T02:29:26.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Data\\ApplicationDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Ecommerce platforms.Repository\\Data\\ApplicationDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Data\\ApplicationDbContextFactory.cs",
+              "RelativeToolTip": "Ecommerce platforms.Repository\\Data\\ApplicationDbContextFactory.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAmwBYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T02:43:18.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Ecommerce platforms.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\appsettings.json",
+              "RelativeToolTip": "Ecommerce platforms.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-05T01:40:03.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "Ecommerce platforms.API\\Controllers\\BrandController.cs",
+              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "Ecommerce platforms.API\\Controllers\\BrandController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T02:29:54.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Auth.cs",
+              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Auth\\Auth.cs",
+              "RelativeDocumentMoniker": "Ecommerce platforms.Repository\\Auth\\Auth.cs",
+              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Auth\\Auth.cs",
+              "RelativeToolTip": "Ecommerce platforms.Repository\\Auth\\Auth.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAYwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:11:50.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Ecommerce platforms.API\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Ecommerce platforms.API\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAwwBMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T00:54:42.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IAuth.cs",
+              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Auth\\IAuth.cs",
+              "RelativeDocumentMoniker": "Ecommerce platforms.Repository\\Auth\\IAuth.cs",
+              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Auth\\IAuth.cs",
+              "RelativeToolTip": "Ecommerce platforms.Repository\\Auth\\IAuth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:12:02.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DeliveryMethodRepository.cs",
+              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Repository\\DeliveryMethodRepository.cs",
+              "RelativeDocumentMoniker": "Ecommerce platforms.Repository\\Repository\\DeliveryMethodRepository.cs",
+              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Repository\\DeliveryMethodRepository.cs",
+              "RelativeToolTip": "Ecommerce platforms.Repository\\Repository\\DeliveryMethodRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:16:26.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BrandConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Data\\Config\\BrandConfiguration.cs",
+              "RelativeDocumentMoniker": "Ecommerce platforms.Repository\\Data\\Config\\BrandConfiguration.cs",
+              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Data\\Config\\BrandConfiguration.cs",
+              "RelativeToolTip": "Ecommerce platforms.Repository\\Data\\Config\\BrandConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:13:26.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Ecommerce platforms.Repository\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Ecommerce platforms.Repository\\Repository\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:16:43.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\Helper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Ecommerce platforms.API\\Helper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\Helper\\MappingProfile.cs",
+              "RelativeToolTip": "Ecommerce platforms.API\\Helper\\MappingProfile.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAIBJwCoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T00:59:19.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "Ecommerce platforms.API\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "Ecommerce platforms.API\\Controllers\\ProfileController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T00:58:20.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Ecommerce platforms.Repository\\Repository\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Repository\\OrderRepository.cs",
+              "RelativeToolTip": "Ecommerce platforms.Repository\\Repository\\OrderRepository.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAIBJwA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:16:39.059Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 32,
+              "Title": "IImageService.cs",
+              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Repository\\IImageService.cs",
+              "RelativeDocumentMoniker": "Ecommerce platforms.Repository\\Repository\\IImageService.cs",
+              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Repository\\IImageService.cs",
+              "RelativeToolTip": "Ecommerce platforms.Repository\\Repository\\IImageService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBQwAAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:16:34.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Repository\\CartRepository.cs",
+              "RelativeDocumentMoniker": "Ecommerce platforms.Repository\\Repository\\CartRepository.cs",
+              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Repository\\CartRepository.cs",
+              "RelativeToolTip": "Ecommerce platforms.Repository\\Repository\\CartRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:16:21.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BrandRepository.cs",
+              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Repository\\BrandRepository.cs",
+              "RelativeDocumentMoniker": "Ecommerce platforms.Repository\\Repository\\BrandRepository.cs",
+              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Repository\\BrandRepository.cs",
+              "RelativeToolTip": "Ecommerce platforms.Repository\\Repository\\BrandRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:16:04.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "Ecommerce platforms.Core\\Models\\Address.cs",
+              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\Models\\Address.cs",
+              "RelativeToolTip": "Ecommerce platforms.Core\\Models\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:07:36.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "StoreDataSeeding.cs",
+              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Data\\StoreDataSeeding.cs",
+              "RelativeDocumentMoniker": "Ecommerce platforms.Repository\\Data\\StoreDataSeeding.cs",
+              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Data\\StoreDataSeeding.cs",
+              "RelativeToolTip": "Ecommerce platforms.Repository\\Data\\StoreDataSeeding.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:23:39.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DeliveryMethod.cs",
+              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\Models\\DeliveryMethod.cs",
+              "RelativeDocumentMoniker": "Ecommerce platforms.Core\\Models\\DeliveryMethod.cs",
+              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\Models\\DeliveryMethod.cs",
+              "RelativeToolTip": "Ecommerce platforms.Core\\Models\\DeliveryMethod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:08:02.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IProduct.cs",
+              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\IRepository\\IProduct.cs",
+              "RelativeDocumentMoniker": "Ecommerce platforms.Core\\IRepository\\IProduct.cs",
+              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\IRepository\\IProduct.cs",
+              "RelativeToolTip": "Ecommerce platforms.Core\\IRepository\\IProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:06:51.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IOrder.cs",
+              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\IRepository\\IOrder.cs",
+              "RelativeDocumentMoniker": "Ecommerce platforms.Core\\IRepository\\IOrder.cs",
+              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\IRepository\\IOrder.cs",
+              "RelativeToolTip": "Ecommerce platforms.Core\\IRepository\\IOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:06:46.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
               "Title": "IGenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\IRepository\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "Ecommerce platforms.Core\\IRepository\\IGenericRepository.cs",
@@ -714,12 +796,11 @@
               "RelativeToolTip": "Ecommerce platforms.Core\\IRepository\\IGenericRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:06:36.925Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T01:06:36.925Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 41,
               "Title": "IDeliveryMethod.cs",
               "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\IRepository\\IDeliveryMethod.cs",
               "RelativeDocumentMoniker": "Ecommerce platforms.Core\\IRepository\\IDeliveryMethod.cs",
@@ -727,12 +808,11 @@
               "RelativeToolTip": "Ecommerce platforms.Core\\IRepository\\IDeliveryMethod.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:06:32.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T01:06:32.009Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 42,
               "Title": "ICart.cs",
               "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\IRepository\\ICart.cs",
               "RelativeDocumentMoniker": "Ecommerce platforms.Core\\IRepository\\ICart.cs",
@@ -740,12 +820,11 @@
               "RelativeToolTip": "Ecommerce platforms.Core\\IRepository\\ICart.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:06:21.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T01:06:21.828Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 43,
               "Title": "IBrand.cs",
               "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\IRepository\\IBrand.cs",
               "RelativeDocumentMoniker": "Ecommerce platforms.Core\\IRepository\\IBrand.cs",
@@ -753,12 +832,11 @@
               "RelativeToolTip": "Ecommerce platforms.Core\\IRepository\\IBrand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:05:23.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T01:05:23.683Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 44,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Data\\Identity\\AppUser.cs",
               "RelativeDocumentMoniker": "Ecommerce platforms.Repository\\Data\\Identity\\AppUser.cs",
@@ -766,12 +844,11 @@
               "RelativeToolTip": "Ecommerce platforms.Repository\\Data\\Identity\\AppUser.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:14:49.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T01:14:49.037Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 47,
               "Title": "CartConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Data\\Config\\CartConfiguration.cs",
               "RelativeDocumentMoniker": "Ecommerce platforms.Repository\\Data\\Config\\CartConfiguration.cs",
@@ -779,12 +856,11 @@
               "RelativeToolTip": "Ecommerce platforms.Repository\\Data\\Config\\CartConfiguration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:13:58.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T01:13:58.722Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 46,
               "Title": "ProductConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Data\\Config\\ProductConfiguration.cs",
               "RelativeDocumentMoniker": "Ecommerce platforms.Repository\\Data\\Config\\ProductConfiguration.cs",
@@ -792,12 +868,11 @@
               "RelativeToolTip": "Ecommerce platforms.Repository\\Data\\Config\\ProductConfiguration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:14:12.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T01:14:12.811Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 45,
               "Title": "Address.cs",
               "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Repository\\Data\\Identity\\Address.cs",
               "RelativeDocumentMoniker": "Ecommerce platforms.Repository\\Data\\Identity\\Address.cs",
@@ -805,25 +880,11 @@
               "RelativeToolTip": "Ecommerce platforms.Repository\\Data\\Identity\\Address.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:13:02.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T01:13:02.164Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "StripeOptions.cs",
-              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\Models\\StripeOptions.cs",
-              "RelativeDocumentMoniker": "Ecommerce platforms.Core\\Models\\StripeOptions.cs",
-              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\Models\\StripeOptions.cs",
-              "RelativeToolTip": "Ecommerce platforms.Core\\Models\\StripeOptions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:08:35.656Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 48,
               "Title": "SD.cs",
               "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\Models\\SD.cs",
               "RelativeDocumentMoniker": "Ecommerce platforms.Core\\Models\\SD.cs",
@@ -831,25 +892,11 @@
               "RelativeToolTip": "Ecommerce platforms.Core\\Models\\SD.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:08:30.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T01:08:30.701Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Ecommerce platforms.Core\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\Models\\Product.cs",
-              "RelativeToolTip": "Ecommerce platforms.Core\\Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:08:25.899Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 49,
               "Title": "OrderItems.cs",
               "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\Models\\OrderItems.cs",
               "RelativeDocumentMoniker": "Ecommerce platforms.Core\\Models\\OrderItems.cs",
@@ -857,25 +904,11 @@
               "RelativeToolTip": "Ecommerce platforms.Core\\Models\\OrderItems.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:08:20.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T01:08:20.797Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "Ecommerce platforms.Core\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\Models\\Order.cs",
-              "RelativeToolTip": "Ecommerce platforms.Core\\Models\\Order.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:08:14.613Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 50,
               "Title": "ModelBase.cs",
               "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\Models\\ModelBase.cs",
               "RelativeDocumentMoniker": "Ecommerce platforms.Core\\Models\\ModelBase.cs",
@@ -883,38 +916,11 @@
               "RelativeToolTip": "Ecommerce platforms.Core\\Models\\ModelBase.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:08:07.908Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T01:08:07.908Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "CartItems.cs",
-              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\Models\\CartItems.cs",
-              "RelativeDocumentMoniker": "Ecommerce platforms.Core\\Models\\CartItems.cs",
-              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\Models\\CartItems.cs",
-              "RelativeToolTip": "Ecommerce platforms.Core\\Models\\CartItems.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:07:57.808Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "Brand.cs",
-              "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\Models\\Brand.cs",
-              "RelativeDocumentMoniker": "Ecommerce platforms.Core\\Models\\Brand.cs",
-              "ToolTip": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.Core\\Models\\Brand.cs",
-              "RelativeToolTip": "Ecommerce platforms.Core\\Models\\Brand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:07:43.509Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 51,
               "Title": "UpdateQuantityDTo.cs",
               "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\ModelsDTO\\UpdateQuantityDTo.cs",
               "RelativeDocumentMoniker": "Ecommerce platforms.API\\ModelsDTO\\UpdateQuantityDTo.cs",
@@ -922,12 +928,11 @@
               "RelativeToolTip": "Ecommerce platforms.API\\ModelsDTO\\UpdateQuantityDTo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:04:07.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T01:04:07.795Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 52,
               "Title": "UpdateProfileDTO.cs",
               "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\ModelsDTO\\UpdateProfileDTO.cs",
               "RelativeDocumentMoniker": "Ecommerce platforms.API\\ModelsDTO\\UpdateProfileDTO.cs",
@@ -935,12 +940,11 @@
               "RelativeToolTip": "Ecommerce platforms.API\\ModelsDTO\\UpdateProfileDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:04:02.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T01:04:02.465Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 53,
               "Title": "UpdateCartRequestDTO.cs",
               "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\ModelsDTO\\UpdateCartRequestDTO.cs",
               "RelativeDocumentMoniker": "Ecommerce platforms.API\\ModelsDTO\\UpdateCartRequestDTO.cs",
@@ -948,12 +952,11 @@
               "RelativeToolTip": "Ecommerce platforms.API\\ModelsDTO\\UpdateCartRequestDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:03:57.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T01:03:57.837Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 54,
               "Title": "ResetPasswordDTO.cs",
               "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\ModelsDTO\\ResetPasswordDTO.cs",
               "RelativeDocumentMoniker": "Ecommerce platforms.API\\ModelsDTO\\ResetPasswordDTO.cs",
@@ -961,12 +964,11 @@
               "RelativeToolTip": "Ecommerce platforms.API\\ModelsDTO\\ResetPasswordDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:03:51.745Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T01:03:51.745Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 55,
               "Title": "RegisterUserDTO.cs",
               "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\ModelsDTO\\RegisterUserDTO.cs",
               "RelativeDocumentMoniker": "Ecommerce platforms.API\\ModelsDTO\\RegisterUserDTO.cs",
@@ -974,12 +976,11 @@
               "RelativeToolTip": "Ecommerce platforms.API\\ModelsDTO\\RegisterUserDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:03:46.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T01:03:46.358Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 56,
               "Title": "RegisterResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\ModelsDTO\\RegisterResponseDTO.cs",
               "RelativeDocumentMoniker": "Ecommerce platforms.API\\ModelsDTO\\RegisterResponseDTO.cs",
@@ -987,12 +988,11 @@
               "RelativeToolTip": "Ecommerce platforms.API\\ModelsDTO\\RegisterResponseDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:03:40.704Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T01:03:40.704Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 57,
               "Title": "ProductDTO.cs",
               "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\ModelsDTO\\ProductDTO.cs",
               "RelativeDocumentMoniker": "Ecommerce platforms.API\\ModelsDTO\\ProductDTO.cs",
@@ -1000,12 +1000,11 @@
               "RelativeToolTip": "Ecommerce platforms.API\\ModelsDTO\\ProductDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:03:28.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T01:03:28.994Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 58,
               "Title": "PayRequestDTO.cs",
               "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\ModelsDTO\\PayRequestDTO.cs",
               "RelativeDocumentMoniker": "Ecommerce platforms.API\\ModelsDTO\\PayRequestDTO.cs",
@@ -1013,12 +1012,11 @@
               "RelativeToolTip": "Ecommerce platforms.API\\ModelsDTO\\PayRequestDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:03:23.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T01:03:23.019Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 59,
               "Title": "LoginResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\ModelsDTO\\LoginResponseDTO.cs",
               "RelativeDocumentMoniker": "Ecommerce platforms.API\\ModelsDTO\\LoginResponseDTO.cs",
@@ -1026,12 +1024,11 @@
               "RelativeToolTip": "Ecommerce platforms.API\\ModelsDTO\\LoginResponseDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:03:18.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T01:03:18.257Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 60,
               "Title": "LoginDTo.cs",
               "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\ModelsDTO\\LoginDTo.cs",
               "RelativeDocumentMoniker": "Ecommerce platforms.API\\ModelsDTO\\LoginDTo.cs",
@@ -1039,12 +1036,11 @@
               "RelativeToolTip": "Ecommerce platforms.API\\ModelsDTO\\LoginDTo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:03:11.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T01:03:11.971Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 61,
               "Title": "IdentityAddressDTO.cs",
               "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\ModelsDTO\\IdentityAddressDTO.cs",
               "RelativeDocumentMoniker": "Ecommerce platforms.API\\ModelsDTO\\IdentityAddressDTO.cs",
@@ -1052,12 +1048,11 @@
               "RelativeToolTip": "Ecommerce platforms.API\\ModelsDTO\\IdentityAddressDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:03:07.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T01:03:07.017Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 62,
               "Title": "DeliverOrderDTO.cs",
               "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\ModelsDTO\\DeliverOrderDTO.cs",
               "RelativeDocumentMoniker": "Ecommerce platforms.API\\ModelsDTO\\DeliverOrderDTO.cs",
@@ -1065,12 +1060,11 @@
               "RelativeToolTip": "Ecommerce platforms.API\\ModelsDTO\\DeliverOrderDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:03:02.068Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T01:03:02.068Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 63,
               "Title": "CreateNewProductDTO.cs",
               "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\ModelsDTO\\CreateNewProductDTO.cs",
               "RelativeDocumentMoniker": "Ecommerce platforms.API\\ModelsDTO\\CreateNewProductDTO.cs",
@@ -1078,12 +1072,11 @@
               "RelativeToolTip": "Ecommerce platforms.API\\ModelsDTO\\CreateNewProductDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:02:54.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T01:02:54.212Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 64,
               "Title": "ChangePasswordDTO.cs",
               "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\ModelsDTO\\ChangePasswordDTO.cs",
               "RelativeDocumentMoniker": "Ecommerce platforms.API\\ModelsDTO\\ChangePasswordDTO.cs",
@@ -1091,12 +1084,11 @@
               "RelativeToolTip": "Ecommerce platforms.API\\ModelsDTO\\ChangePasswordDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:02:49.228Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T01:02:49.228Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 65,
               "Title": "CartResponse.cs",
               "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\ModelsDTO\\CartResponse.cs",
               "RelativeDocumentMoniker": "Ecommerce platforms.API\\ModelsDTO\\CartResponse.cs",
@@ -1104,12 +1096,11 @@
               "RelativeToolTip": "Ecommerce platforms.API\\ModelsDTO\\CartResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:02:43.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T01:02:43.36Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 66,
               "Title": "CartItemResponse.cs",
               "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\ModelsDTO\\CartItemResponse.cs",
               "RelativeDocumentMoniker": "Ecommerce platforms.API\\ModelsDTO\\CartItemResponse.cs",
@@ -1117,12 +1108,11 @@
               "RelativeToolTip": "Ecommerce platforms.API\\ModelsDTO\\CartItemResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:02:33.729Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T01:02:33.729Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 67,
               "Title": "CartItemDto.cs",
               "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\ModelsDTO\\CartItemDto.cs",
               "RelativeDocumentMoniker": "Ecommerce platforms.API\\ModelsDTO\\CartItemDto.cs",
@@ -1130,12 +1120,11 @@
               "RelativeToolTip": "Ecommerce platforms.API\\ModelsDTO\\CartItemDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:02:28.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T01:02:28.377Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 68,
               "Title": "CartDto.cs",
               "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\ModelsDTO\\CartDto.cs",
               "RelativeDocumentMoniker": "Ecommerce platforms.API\\ModelsDTO\\CartDto.cs",
@@ -1143,12 +1132,11 @@
               "RelativeToolTip": "Ecommerce platforms.API\\ModelsDTO\\CartDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:02:18.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T01:02:18.495Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 69,
               "Title": "BrandDTO.cs",
               "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\ModelsDTO\\BrandDTO.cs",
               "RelativeDocumentMoniker": "Ecommerce platforms.API\\ModelsDTO\\BrandDTO.cs",
@@ -1156,12 +1144,11 @@
               "RelativeToolTip": "Ecommerce platforms.API\\ModelsDTO\\BrandDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:02:09.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T01:02:09.171Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 70,
               "Title": "AssignRoleDTO.cs",
               "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\ModelsDTO\\AssignRoleDTO.cs",
               "RelativeDocumentMoniker": "Ecommerce platforms.API\\ModelsDTO\\AssignRoleDTO.cs",
@@ -1169,12 +1156,11 @@
               "RelativeToolTip": "Ecommerce platforms.API\\ModelsDTO\\AssignRoleDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:02:02.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T01:02:02.055Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 71,
               "Title": "15promax.jpg",
               "DocumentMoniker": "C:\\Users\\alQsa\\source\\repos\\Ecommerce platforms\\Ecommerce platforms.API\\wwwroot\\images\\15promax.jpg",
               "RelativeDocumentMoniker": "Ecommerce platforms.API\\wwwroot\\images\\15promax.jpg",

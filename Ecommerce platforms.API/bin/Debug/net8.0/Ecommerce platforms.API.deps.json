@@ -963,12 +963,7 @@
       "System.Threading.Tasks.Extensions/4.5.4": {},
       "Ecommerce platforms.Core/1.0.0": {
         "dependencies": {
-          "Microsoft.AspNetCore.Http.Features": "5.0.17",
-          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.10",
-          "Microsoft.EntityFrameworkCore": "8.0.10",
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.10",
-          "Microsoft.Extensions.Configuration": "8.0.0",
-          "Stripe.net": "47.0.0"
+          "Microsoft.AspNetCore.Http.Features": "5.0.17"
         },
         "runtime": {
           "Ecommerce platforms.Core.dll": {}
@@ -977,12 +972,8 @@
       "Ecommerce platforms.Repository/1.0.0": {
         "dependencies": {
           "Ecommerce platforms.Core": "1.0.0",
-          "Microsoft.AspNetCore.Http.Features": "5.0.17",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.10",
-          "Microsoft.EntityFrameworkCore": "8.0.10",
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.10",
-          "Microsoft.Extensions.Configuration": "8.0.0",
-          "Stripe.net": "47.0.0"
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.10"
         },
         "runtime": {
           "Ecommerce platforms.Repository.dll": {}
